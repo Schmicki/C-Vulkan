@@ -1,0 +1,15 @@
+# visual studio files
+.vs
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+
+# make files
+Makefile
+*.make
+
+# binary and intermediate folders
+bin
+build
+obj
