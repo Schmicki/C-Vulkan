@@ -1,5 +1,7 @@
 # C-Vulkan
 
+⚠️ Status: Archived ⚠️ This project was created for educational purposes and is no longer maintained.
+
 A minimalist C99 vulkan renderer.
 
 ## Screenshot
